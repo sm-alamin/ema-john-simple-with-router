@@ -3,4 +3,8 @@
     padding: 25px;
     position: sticky;
     top: 0;
+    min-height: 400px;
+}
+.cart >h4,h6,p{
+    margin-top: 20px;
 }
